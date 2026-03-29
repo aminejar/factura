@@ -1,0 +1,322 @@
+[
+  {
+    "number": "INV-2024-001",
+    "date": "2024-01-15",
+    "dueDate": "2024-05-12",
+    "clientId": "client-001",
+    "items": [
+      {
+        "description": "Service de développement web",
+        "quantity": 1,
+        "unitPrice": 2500,
+        "total": 2500
+      }
+    ],
+    "total": 35000000000,
+    "paidAmount": 2749.97,
+    "remainingAmount": 34999997250.03,
+    "status": "void",
+    "userId": "1766842338263",
+    "id": "inv-001",
+    "createdAt": "2024-01-15T10:00:00Z",
+    "updatedAt": "2025-12-28T18:17:23.751Z",
+    "notes": "[CANCELED: User canceled from UI]\n[CANCELED: User canceled from UI]"
+  },
+  {
+    "number": "INV-2024-002",
+    "date": "2024-01-20",
+    "dueDate": "2024-02-19",
+    "clientId": "client-002",
+    "items": [
+      {
+        "description": "Consultation digitale",
+        "quantity": 1,
+        "unitPrice": 1500,
+        "total": 1500
+      }
+    ],
+    "total": 1500,
+    "paidAmount": 0,
+    "remainingAmount": 1500,
+    "status": "void",
+    "userId": "1766842338263",
+    "id": "inv-002",
+    "createdAt": "2024-01-20T14:30:00Z",
+    "updatedAt": "2025-12-28T15:30:55.149Z",
+    "notes": "[CANCELED: User canceled from UI]\n[CANCELED: User canceled from UI]"
+  },
+  {
+    "number": "INV-2024-003",
+    "date": "2024-01-25",
+    "dueDate": "2024-02-24",
+    "clientId": "client-003",
+    "items": [
+      {
+        "description": "Audit système",
+        "quantity": 1,
+        "unitPrice": 1800,
+        "total": 1800
+      }
+    ],
+    "total": 1800,
+    "paidAmount": 1820,
+    "remainingAmount": 0,
+    "status": "paid",
+    "userId": "1766842338263",
+    "id": "inv-003",
+    "createdAt": "2024-01-25T09:15:00Z",
+    "updatedAt": "2025-12-28T14:42:54.878Z"
+  },
+  {
+    "number": "INV-2024-004",
+    "date": "2024-01-20",
+    "dueDate": "2024-02-19",
+    "clientId": "client-004",
+    "items": [
+      {
+        "description": "Développement application mobile",
+        "quantity": 1,
+        "unitPrice": 3200,
+        "total": 3200
+      }
+    ],
+    "total": 3200,
+    "paidAmount": 1000,
+    "remainingAmount": 2200,
+    "status": "partial",
+    "userId": "1766842338263",
+    "id": "inv-004",
+    "createdAt": "2024-02-01T11:45:00Z",
+    "updatedAt": "2024-02-01T11:45:00Z"
+  },
+  {
+    "number": "INV-1766925013364",
+    "date": "2025-12-28",
+    "dueDate": "2026-01-27",
+    "clientId": "1766925013356u6ig1ruj6",
+    "items": [
+      {
+        "description": "Service rendu - 111",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      }
+    ],
+    "total": 100,
+    "status": "void",
+    "paidAmount": 80,
+    "remainingAmount": 20,
+    "userId": "1766842338263",
+    "id": "1766925013364spay51qgp",
+    "createdAt": "2025-12-28T12:30:13.364Z",
+    "updatedAt": "2025-12-28T18:20:56.775Z",
+    "notes": "[CANCELED: User canceled from UI]"
+  },
+  {
+    "number": "INV-1766930796909",
+    "date": "2025-12-28",
+    "dueDate": "2026-01-27",
+    "clientId": "17669307969040mozd9d8g",
+    "items": [
+      {
+        "description": "Service rendu - z",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      }
+    ],
+    "total": 100,
+    "status": "draft",
+    "paidAmount": 20,
+    "remainingAmount": 80,
+    "userId": "1766842338263",
+    "id": "1766930796909qmevf2do8",
+    "createdAt": "2025-12-28T14:06:36.909Z"
+  },
+  {
+    "number": "INV-1766933554195",
+    "date": "2025-12-28",
+    "dueDate": "2026-01-27",
+    "clientId": "1766933554190elstmhghi",
+    "items": [
+      {
+        "description": "Service rendu - 1",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      }
+    ],
+    "total": 100,
+    "status": "draft",
+    "paidAmount": 76.01,
+    "remainingAmount": 23.989999999999995,
+    "userId": "1766842338263",
+    "id": "17669335541955ph5dc0ii",
+    "createdAt": "2025-12-28T14:52:34.195Z",
+    "updatedAt": "2025-12-30T17:05:05.530Z"
+  },
+  {
+    "number": "INV-1766933556904",
+    "date": "2025-12-28",
+    "dueDate": "2026-01-27",
+    "clientId": "176693355686351gb44k55",
+    "items": [
+      {
+        "description": "Service rendu - 1",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      }
+    ],
+    "total": 100,
+    "status": "draft",
+    "paidAmount": 20.01,
+    "remainingAmount": 79.99,
+    "userId": "1766842338263",
+    "id": "1766933556904sbf47gceg",
+    "createdAt": "2025-12-28T14:52:36.904Z"
+  },
+  {
+    "number": "INV-1766943691728",
+    "date": "2025-12-28",
+    "invoiceDate": "2025-12-28",
+    "dueDate": "2026-06-07",
+    "clientId": "1766943691715ro4d45p0r",
+    "items": [
+      {
+        "description": "Service rendu - 1",
+        "quantity": 1,
+        "unitPrice": 11,
+        "total": 11
+      }
+    ],
+    "total": 11,
+    "status": "draft",
+    "paidAmount": 0.06,
+    "remainingAmount": 10.94,
+    "userId": "1766842338263",
+    "id": "17669436917281vr9x1i75",
+    "createdAt": "2025-12-28T17:41:31.729Z"
+  },
+  {
+    "number": "INV-1766945470336",
+    "date": "2025-12-28",
+    "invoiceDate": "2025-12-28",
+    "dueDate": "2025-12-29",
+    "clientId": "17669454702609ca10capf",
+    "items": [
+      {
+        "description": "Service rendu - 1",
+        "quantity": 1,
+        "unitPrice": 150000000,
+        "total": 150000000
+      }
+    ],
+    "total": 1e+30,
+    "status": "draft",
+    "paidAmount": 12,
+    "remainingAmount": 1e+30,
+    "userId": "1766842338263",
+    "id": "1766945470336phwjtgphy",
+    "createdAt": "2025-12-28T18:11:10.336Z",
+    "updatedAt": "2025-12-28T18:23:17.127Z"
+  },
+  {
+    "number": "INV-1766945625945",
+    "date": "2025-12-28",
+    "invoiceDate": "2025-12-28",
+    "dueDate": "2026-01-11",
+    "clientId": "1766945625935tom9mfzen",
+    "items": [
+      {
+        "description": "Service rendu - Auto-generated invoice",
+        "quantity": 1,
+        "unitPrice": 99595,
+        "total": 99595
+      }
+    ],
+    "total": 99595,
+    "status": "draft",
+    "paidAmount": 10,
+    "remainingAmount": 99585,
+    "userId": "1766842338263",
+    "id": "1766945625946qkwlqbswr",
+    "createdAt": "2025-12-28T18:13:45.946Z"
+  },
+  {
+    "number": "INV-1767003598462",
+    "date": "2025-12-29",
+    "invoiceDate": "2025-12-29",
+    "dueDate": "2026-01-11",
+    "clientId": "17670035984517bvmaca7i",
+    "items": [
+      {
+        "description": "Service rendu - Auto-generated invoice",
+        "quantity": 1,
+        "unitPrice": 780000,
+        "total": 780000
+      }
+    ],
+    "total": 780000,
+    "status": "void",
+    "paidAmount": 200000,
+    "remainingAmount": 580000,
+    "userId": "1766842338263",
+    "id": "1767003598478a7kazn2qz",
+    "createdAt": "2025-12-29T10:19:58.478Z",
+    "notes": "[CANCELED: User canceled from UI]",
+    "updatedAt": "2025-12-29T10:24:46.866Z"
+  },
+  {
+    "number": "INV-1767013000822",
+    "date": "2025-12-29",
+    "invoiceDate": "2025-12-29",
+    "dueDate": "2025-12-30",
+    "clientId": "client-003",
+    "items": [
+      {
+        "description": "Service rendu - Auto-generated invoice",
+        "quantity": 1,
+        "unitPrice": 56,
+        "total": 56
+      }
+    ],
+    "total": 56,
+    "status": "draft",
+    "paidAmount": 56,
+    "remainingAmount": 0,
+    "userId": "1766842338263",
+    "id": "176701300082383a9344iv",
+    "createdAt": "2025-12-29T12:56:40.823Z"
+  },
+  {
+    "number": "INV-1767114620203",
+    "date": "2025-12-30",
+    "invoiceDate": "2025-12-30",
+    "dueDate": "2026-01-02",
+    "clientId": "1766943691715ro4d45p0r",
+    "items": [
+      {
+        "productId": "1767017638495s49p0in1g",
+        "description": "pomme de terre",
+        "quantity": 86,
+        "unitPrice": 1,
+        "total": 86
+      },
+      {
+        "productId": "1767017623072g7mtoz716",
+        "description": "tomate",
+        "quantity": 89,
+        "unitPrice": 0.5,
+        "total": 44.5
+      }
+    ],
+    "total": 130.5,
+    "status": "draft",
+    "paidAmount": 100,
+    "remainingAmount": 30.5,
+    "userId": "1766842338263",
+    "id": "1767114620205he3bb8q5u",
+    "createdAt": "2025-12-30T17:10:20.205Z"
+  }
+]

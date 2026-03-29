@@ -1,0 +1,8 @@
+{
+  "invoiceId": "inv-002",
+  "montant": 500,
+  "mode_paiement": "virement",
+  "date_paiement": "2024-01-21",
+  "reference": "TEST-001",
+  "notes": "Paiement test partiel"
+}

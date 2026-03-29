@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2b$10$YMIhOZHdinUpvOOhj21gC.eM0aRiogFT30NyZBdDLhGOufOoXowfK",
+    "id": "1766836191919",
+    "createdAt": "2025-12-27T11:49:51.919Z"
+  },
+  {
+    "name": "amine jarboui",
+    "email": "jarbouiamine@email.com",
+    "password": "$2b$10$qRqx7kTRGiC3SwX9Yikl8uMec2CbmHRBGYrdo2.673MHE7QUM2BGq",
+    "id": "1766836734200",
+    "createdAt": "2025-12-27T11:58:54.200Z"
+  },
+  {
+    "name": "amine jarboui",
+    "email": "jarbouiamine@gmail.com",
+    "password": "$2b$10$PQAtxPFUnKHMsy2AJTidqOeN3VJPqODv8g6ktHzxrx7c/QdSwriSS",
+    "id": "1766836787570",
+    "createdAt": "2025-12-27T11:59:47.570Z",
+    "company": {
+      "name": "supcom",
+      "address": "yugfgjh",
+      "phone": "29400323"
+    },
+    "updatedAt": "2025-12-27T13:21:24.556Z"
+  },
+  {
+    "name": "amine jarboui",
+    "email": "jarbouiamine1@gmail.com",
+    "password": "$2b$10$skxDdx0P/iJhfL/8HyLlveM.EH.IzSrbYZ4/QdTKlnZefUGsY5noi",
+    "id": "1766838289534",
+    "createdAt": "2025-12-27T12:24:49.534Z"
+  },
+  {
+    "name": "amine jarboui",
+    "email": "jarbouiamine12@gmail.com",
+    "password": "$2b$10$PrfihqnZnIc65yq/GYj6P.rtq3AMguuNBrkmfboH8zYertuw2sMZ6",
+    "id": "1766838390736",
+    "createdAt": "2025-12-27T12:26:30.736Z"
+  },
+  {
+    "name": "amine jarboui",
+    "email": "jarbouiamine14@gmail.com",
+    "password": "$2b$10$Pf1DAApNZ1..R8BiEdfPQe6FqQILf13n4zVrnzxEmE5jFyj6E4emW",
+    "id": "1766838623749",
+    "createdAt": "2025-12-27T12:30:23.749Z"
+  },
+  {
+    "name": "amine jarboui",
+    "email": "jarbouiamine15@gmail.com",
+    "password": "$2b$10$GALRWhg5b0fVhAMnth0P0.K8rgworciJZ9bJpYvpJ3YOi0a6z7S3y",
+    "id": "1766839006464",
+    "createdAt": "2025-12-27T12:36:46.464Z"
+  },
+  {
+    "name": "Test Company User",
+    "email": "company@test.com",
+    "password": "$2b$10$uEOUxzwNsh71ezzPI49reeyVA4NmYNnndL3QKt27rfSRrhMoQzshm",
+    "id": "1766839359632",
+    "createdAt": "2025-12-27T12:42:39.632Z"
+  },
+  {
+    "name": "amine jarboui",
+    "email": "jarbouiamine2@gmail.com",
+    "password": "$2b$10$y7qa4ZDZ4oJlo5uyn8D.buwBbIynXtiKSx44jn03LcynDwG1p6guW",
+    "id": "1766840856997",
+    "createdAt": "2025-12-27T13:07:36.997Z"
+  },
+  {
+    "name": "Test Company User 2",
+    "email": "company2@test.com",
+    "password": "$2b$10$TBaUBAlV5Mjf/3FSYtJD7.O99..6bICs0k85BBy.QO2UFr5wILBoy",
+    "id": "1766841049540",
+    "createdAt": "2025-12-27T13:10:49.540Z"
+  },
+  {
+    "name": "amine jarboui",
+    "email": "jarbouiamine110@gmail.com",
+    "password": "$2b$10$iyp99aCJvuZ4D/h4A5bG.ukOFywcYPiY7peglKM793ZhKVPrHWvMy",
+    "plan": "professional",
+    "company": {
+      "name": "",
+      "address": "",
+      "phone": ""
+    },
+    "id": "1766841916349",
+    "createdAt": "2025-12-27T13:25:16.349Z",
+    "updatedAt": "2025-12-27T13:26:53.735Z"
+  },
+  {
+    "name": "amine jarboui",
+    "email": "jarbouiaminea@gmail.com",
+    "password": "$2b$10$CIPYAKZqRbDWXdiN.09NhOs14pKmm4o4vxsbKG7bpBjZpE3q.1XBW",
+    "plan": "starter",
+    "company": {
+      "name": "supcom",
+      "phone": "29400323",
+      "address": "yugfgjh"
+    },
+    "id": "1766842338263",
+    "createdAt": "2025-12-27T13:32:18.263Z",
+    "updatedAt": "2025-12-28T18:25:30.143Z"
+  },
+  {
+    "name": "amine jarboui",
+    "email": "jarbouiamineb@gmail.com",
+    "password": "$2b$10$VnzvNngB0M2QWD0FAQsDHuENMXVCla.t2fJmufmC4p9njoaABcVqK",
+    "plan": "starter",
+    "company": {
+      "name": "supcom",
+      "address": "yugfgjh",
+      "phone": "29400323"
+    },
+    "id": "1766842914789",
+    "createdAt": "2025-12-27T13:41:54.789Z",
+    "updatedAt": "2025-12-27T13:52:53.078Z"
+  },
+  {
+    "name": "Test Complete User",
+    "email": "complete@test.com",
+    "password": "$2b$10$Z72GVtz0EclPmtE0SRJuluSMMHLLvcYE12Qo16kV8idQGJ2UuIGdy",
+    "plan": "professional",
+    "company": {
+      "name": "Test Company Inc",
+      "phone": "+1234567890",
+      "address": "123 Test Street"
+    },
+    "id": "1766843237719",
+    "createdAt": "2025-12-27T13:47:17.719Z"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "tomate",
+    "price": 0.7,
+    "userId": "1766842338263",
+    "id": "1767017623072g7mtoz716",
+    "createdAt": "2025-12-29T14:13:43.072Z",
+    "updatedAt": "2025-12-30T17:12:19.454Z"
+  },
+  {
+    "name": "pomme de terre",
+    "price": 1,
+    "userId": "1766842338263",
+    "id": "1767017638495s49p0in1g",
+    "createdAt": "2025-12-29T14:13:58.495Z"
+  },
+  {
+    "name": "escalope",
+    "price": 6,
+    "userId": "1766842338263",
+    "id": "1767114756902wzrv1uxb5",
+    "createdAt": "2025-12-30T17:12:36.902Z"
+  }
+]

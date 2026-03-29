@@ -1,0 +1,8 @@
+{
+  "number": "TEST-001",
+  "date": "2024-01-15",
+  "dueDate": "2024-01-30",
+  "clientId": "test-client",
+  "items": [{"description": "Test Item", "quantity": 1, "price": 100}],
+  "total": 100
+}
